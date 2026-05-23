@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Skylight Hotel",
+    "url": "/Skylight_Hotel.jpg",
+    "city": "Addis Ababa",
+    "around": "Bole International Airport",
+    "rating": 4,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 100 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 80 },
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 50 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 120 }
+    ],
+    "amenities": ["WiFi", "Airport Shuttle", "Pool", "Spa"],
+    "contact": { "phone": "+251-11-1234567", "email": "info@skylighthotel.com" },
+    "policies": { "check_in": "2 PM", "check_out": "12 PM", "cancellation": "Free until 24h before" }
+  },
+  {
+    "id": 2,
+    "name": "Sheraton Addis Luxury Collection",
+    "url": "/Sheraton.jpg",
+    "city": "Addis Ababa",
+    "around": "Central Addis",
+    "rating": 5,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 500 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 250 },
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 180 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 320 }
+    ],
+    "amenities": ["Luxury Spa", "Pool", "Business Center"],
+    "contact": { "phone": "+251-11-5171717", "email": "reservations@sheratonaddis.com" },
+    "policies": { "check_in": "3 PM", "check_out": "11 AM", "cancellation": "Free until 48h before" }
+  },
+  {
+    "id": 3,
+    "name": "Marriott Executive Apartments",
+    "url": "/Marriott-Executive.jpg",
+    "city": "Addis Ababa",
+    "around": "Meskel Square",
+    "rating": 4,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 150 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 200 },
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 300 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 320 }
+    ],
+    "amenities": ["Kitchenette", "Gym", "Pool", "Lounge"],
+    "contact": { "phone": "+251-11-1237890", "email": "stay@marriottaddis.com" },
+    "policies": { "check_in": "2 PM", "check_out": "12 PM", "cancellation": "Free until 24h before" }
+  },
+  {
+    "id": 4,
+    "name": "Hilton Addis Ababa",
+    "url": "/Hilton.jpg",
+    "city": "Addis Ababa",
+    "around": "Kazanchis",
+    "rating": 4,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 160 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 140 },
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 280 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 320 }
+    ],
+    "amenities": ["Pool", "Tennis Court", "Spa"],
+    "contact": { "phone": "+251-11-5170000", "email": "hilton@hiltonaddis.com" },
+    "policies": { "check_in": "2 PM", "check_out": "12 PM", "cancellation": "Free until 24h before" }
+  },
+  {
+    "id": 5,
+    "name": "Radisson Blu Hotel",
+    "url": "/Radisson_Blu.jpg",
+    "city": "Addis Ababa",
+    "around": "Kazanchis",
+    "rating": 5,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 220 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 150 },
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 350 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 220 }
+    ],
+    "amenities": ["Spa", "Airport Shuttle"],
+    "contact": { "phone": "+251-11-5157600", "email": "info@radissonbluaddis.com" },
+    "policies": { "check_in": "2 PM", "check_out": "12 PM", "cancellation": "Free until 24h before" }
+  },
+  {
+    "id": 6,
+    "name": "Haile Resort",
+    "url": "/Haile_resort_hawassa.jpg",
+    "city": "Hawassa",
+    "around": "Lake Hawassa",
+    "rating": 4,
+    "room_type": [
+      { "id": 1, "room": "Suite", "description": "Luxurious suite with separate living area", "image": "/Suite.png", "price": 180 },
+      { "id": 2, "room": "Deluxe Room", "description": "Spacious room with premium furnishings", "image": "/Deluxe_Room.png", "price": 90},
+      { "id": 3, "room": "Standard Room", "description": "Comfortable room with essential amenities", "image": "/Standard_Room.png", "price": 350 },
+      { "id": 4, "room": "Family Room", "description": "Large room perfect for families", "image": "/Family_Room.png", "price": 220 }
+    ],
+    "amenities": ["Lake View", "Pool", "Spa", "Restaurant"],
+    "contact": { "phone": "+251-46-2202000", "email": "info@haileresoeth.com" },
+    "policies": { "check_in": "2 PM", "check_out": "12 PM", "cancellation": "Free until 24h before" }
+  }
+]

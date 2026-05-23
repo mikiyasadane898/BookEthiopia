@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Toyota Camry", "url": "/Toyota_Camry.webp", "type": "Sedan", "transmission": "Automatic", "seats": "4 Seats", "price": "$50/day", "rating": 4 },
+  { "id": 2, "name": "Honda CR-V", "url": "/Honda_CR-V.webp", "type": "SUV", "transmission": "Automatic", "seats": "5 Seats", "price": "$70/day", "rating": 5 },
+  { "id": 3, "name": "Ford Focus", "url": "/Ford_Focus.webp", "type": "Hatchback", "transmission": "Manual", "seats": "4 Seats", "price": "$40/day", "rating": 3 },
+  { "id": 4, "name": "Chevrolet Silverado", "url": "/Chevrolet_Silverado.webp", "type": "Pickup Truck", "transmission": "Automatic", "seats": "2 Seats", "price": "$80/day", "rating": 4 },
+  { "id": 5, "name": "Dodge Grand Caravan", "url": "/Dodge_Grand_Caravan.webp", "type": "Minivan", "transmission": "Automatic", "seats": "7 Seats", "price": "$90/day", "rating": 5 },
+  { "id": 6, "name": "Mazda MX-5 Miata", "url": "/Mazda_MX-5_Miata.webp", "type": "Sports Car", "transmission": "Manual", "seats": "2 Seats", "price": "$60/day", "rating": 4 },
+  { "id": 7, "name": "Toyota RAV4", "url": "/Toyota_RAV4.webp", "type": "SUV", "transmission": "Automatic", "seats": "5 Seats", "price": "$75/day", "rating": 5 },
+  { "id": 8, "name": "Honda Accord", "url": "/Honda_Accord.webp", "type": "Sedan", "transmission": "Automatic", "seats": "4 Seats", "price": "$55/day", "rating": 4 },
+  { "id": 9, "name": "Ford Explorer", "url": "/Ford_Explorer.webp", "type": "SUV", "transmission": "Automatic", "seats": "7 Seats", "price": "$85/day", "rating": 5 },
+  { "id": 10, "name": "Chevrolet Malibu", "url": "/Chevrolet_Malibu.webp", "type": "Sedan", "transmission": "Automatic", "seats": "4 Seats", "price": "$45/day", "rating": 3 },
+  { "id": 11, "name": "Dodge Charger", "url": "/Dodge_Charger.webp", "type": "Sports Car", "transmission": "Manual", "seats": "4 Seats", "price": "$65/day", "rating": 4 },
+  { "id": 12, "name": "Mazda CX-5", "url": "/Mazda_CX-5.webp", "type": "SUV", "transmission": "Automatic", "seats": "5 Seats", "price": "$70/day", "rating": 5 }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "King Dawit Tours Ethiopia",
+    "city": "Addis Ababa",
+    "specialty": "Culture, history, adventure tours",
+    "rating": 5,
+    "contact": { "phone": "+251913066990" },
+    "url": "/King Dawit Tours & Travel Ethiopia.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 2,
+    "name": "Mamaru Ethiopian Tours",
+    "city": "Addis Ababa",
+    "specialty": "Omo Valley tribes, landscapes",
+    "rating": 5,
+    "contact": { "phone": "+251913048155" },
+    "url": "/Simien-Mountains-Ethiopia-Welcome-Ethiopia-Tours.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 3,
+    "name": "VowLand Ethiopia Tour",
+    "city": "Lalibela",
+    "specialty": "Trekking, Danakil Depression",
+    "rating": 4,
+    "contact": { "phone": "+251936598727" },
+    "url": "Trekking Simien Mountains Trekking Tour  Liyu Ethiopia Tours.webp",
+    "price": "start $500"
+  },
+  {
+    "id": 4,
+    "name": "Simien url Tour & Travel",
+    "city": "Addis Ababa",
+    "specialty": "Simien Mountains trekking",
+    "rating": 5,
+    "contact": { "phone": "+251960451389" },
+    "url": "/Simien-Mountains-National-Park-in-Northern-Ethio-Target-Tour-Travel.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 5,
+    "name": "Green Land Tours",
+    "city": "Addis Ababa",
+    "specialty": "Bale Mountains, Lalibela",
+    "rating": 4,
+    "contact": { "phone": "+251911234567" },
+    "url": "/Green Land Tours.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 6,
+    "name": "Discover Simien Tour Ethiopia",
+    "city": "Addis Ababa",
+    "specialty": "Adventure & cultural tours",
+    "rating": 4,
+    "contact": { "phone": "+251936598727" },
+    "url": "/Discover Simien Tour Ethiopia.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 7,
+    "name": "Best Ethiopia Travel & Tours",
+    "city": "Mekelle",
+    "specialty": "Custom tours, heritage",
+    "rating": 5,
+    "contact": { "phone": "+251992163536" },
+    "url": "/Best Ethiopia Travel & Tours.webp",
+    "price": "start $500"
+  },
+  {
+    "id": 8,
+    "name": "Prime Ethiopia Tours",
+    "city": "Jinka",
+    "specialty": "Omo Valley tribal tours",
+    "rating": 4,
+    "contact": { "phone": "+251946623440" },
+    "url": "/Prime Ethiopia Tours.jpg",
+    "price": "start $500"
+  },
+  {
+    "id": 9,
+    "name": "Magic Ethiopia Tours",
+    "city": "Addis Ababa",
+    "specialty": "Private custom tours",
+    "rating": 4,
+    "contact": { "phone": "+251960451389" },
+    "url": "/Magic Ethiopia Tours.webp",
+    "price": "start $500"
+  },
+  {
+    "id": 10,
+    "name": "Barok Tours & Car Rent",
+    "city": "Addis Ababa",
+    "specialty": "Car rentals + tours",
+    "rating": 4,
+    "contact": { "phone": "+251930802324" },
+    "url": "/Barok Tours & Car Rent.webp",
+    "price": "start $500"
+  },
+  {
+    "id": 11,
+    "name": "Edom Harar Tours",
+    "city": "Harar",
+    "specialty": "Hyena feeding, heritage tours",
+    "rating": 4,
+    "contact": { "phone": "+251924009496" },
+    "url": "Edom Harar Tours.webp",
+    "price": "start $500"
+  },
+  {
+    "id": 12,
+    "name": "Teddy Zion Tour & Travel",
+    "city": "Mekelle",
+    "specialty": "Customized tours",
+    "rating": 4,
+    "contact": { "phone": "+251913912656" },
+    "url": "/Teddy Zion Tour & Travel.jpg",
+    "price": "start $500"
+  }
+]

@@ -1,0 +1,12 @@
+@import "tailwindcss";
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="radio"] {
+  appearance: none;        /* removes native styles */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;            /* no outer border */
+  outline: none;           /* no focus outline */
+}
